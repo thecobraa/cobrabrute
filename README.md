@@ -1,6 +1,7 @@
 # CobraBrute v1.0
 ## Author: https://github.com/thecobraa
 ### Don't copy this code without give me the credits, Cheater! 
+CobraBrute is powerful tool to perform bruteforce against Instagram login.
 CobraBrute is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
 
 ## Legal disclaimer:

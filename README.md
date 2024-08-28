@@ -7,7 +7,7 @@ CobraBrute is an Shell Script to perform multi-threaded brute force attack again
 ## Legal disclaimer:
 Usage of CobraBrute for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![Cobra-Brute](--)
+![Cobra-Brute](https://github.com/thecobraa/cobrabrute/blob/main/cobrabrute.png)
 
 ### Features
 - Multi-thread (100 attempts at once)
